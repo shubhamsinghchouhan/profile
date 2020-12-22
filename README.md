@@ -1,2 +1,2 @@
 # Profile
-https://shubhamsinghchouhan.github.io/
+https://shubhamsinghchouhan.github.io/profile/
